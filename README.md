@@ -39,6 +39,7 @@ Face Detection that I made is a Python-based project that uses Haarcascade class
     python DetectMyFace.py
     ```
 2. This script will process the input images or video stream and display the detected faces.<br>
+3. Once you done. Press <strong>Escape key</strong> to Close this running script
 
 ## Contributing:
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.<br>
