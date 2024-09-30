@@ -21,23 +21,23 @@ Face Detection that I made is a Python-based project that uses Haarcascade class
 
 <h2>Installation:</h2>
 1. Clone the repository<br>
-    ```bash
+    <code>
     git clone https://github.com/Sudharshank-cpu/Face-Detection.git
-    ```<br>
+    </code><br>
 2. Navigate to the project directory<br>
-    ```bash
+    <code>
     cd Face-Detection
-    ```<br>
+    </code><br>
 3. Install the required dependencies<br>
-    ```bash
+    <code>
     pip install -r requirements.txt
-    ```<br>
+    </code><br>
 
 <h2>Usage:</h2>
 1. Run the face detection python script<br>
-    ```bash
+    <code>
     python DetectMyFace.py
-    ```<br>
+    </code><br>
 2. This script will process the input images or video stream and display the detected faces.<br>
 
 <h2>Contributing:</h2>
